@@ -44,7 +44,7 @@ function makeASound(key){
             audio= new Audio('sounds/crash.mp3')
             break;
         case 'k':
-            audio= new Audio('sounds/kick-bass.mp3')
+            audio= new Audio('sounds/Bass-drum.mp3')
             break;
         case 'l':
             audio= new Audio('sounds/snare.mp3')
